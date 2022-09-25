@@ -1,0 +1,1 @@
+fname = input('Open ')

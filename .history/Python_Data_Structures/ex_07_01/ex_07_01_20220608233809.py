@@ -1,0 +1,1 @@
+fh = open('words.txt')

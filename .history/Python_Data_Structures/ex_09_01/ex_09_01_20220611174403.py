@@ -1,0 +1,2 @@
+purse = dict()
+purse[]

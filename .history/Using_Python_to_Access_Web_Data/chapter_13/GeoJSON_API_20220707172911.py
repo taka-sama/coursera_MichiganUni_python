@@ -1,0 +1,2 @@
+ord('い')
+print(ord)
